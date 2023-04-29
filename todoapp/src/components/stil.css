@@ -1,0 +1,49 @@
+.cerceve {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(236, 226, 226);
+    border-radius: 50px 50px;
+    margin: 60px auto 0 auto;
+
+}
+
+.kayitgirisi {
+    width: 400px;
+    height: 50px;
+    border-radius: 50px 50px;
+    margin: 30px 0 10px 0;
+}
+
+.notlar_container {
+    width: 400px;
+    height: 300px;
+    overflow-y: auto;
+    margin: 0px auto;
+
+}
+
+
+
+.not {
+    width: 370px;
+    height: 40px;
+    border-radius: 30px 30px;
+    margin: 10px auto;
+    background-color: white;
+    text-align: center;
+    clear: both;
+
+}
+
+
+.sil {
+    width: 50px;
+    height: 40px;
+    float: right;
+    background-color: rgb(221, 9, 9);
+    color: white;
+    border-radius: 0 30px 30px 0;
+    border: 0;
+
+}
+
